@@ -1,0 +1,41 @@
+/* Copyright (C) 2023 Hideaki Sakai
+
+This file is part of Hide-X-Community-Notes.
+
+Hide-X-Community-Notes is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Hide-X-Community-Notes is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Hide-X-Community-Notes.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
+body {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.display-none {
+    display: none;
+}
+
+div.big {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+div.big label {
+    font-size: 1.5em;
+}
+
+div.big input {
+    transform: scale(1.5);
+    margin: 0 0.5em 0 0.5em;
+    vertical-align: 0.2em;
+}
