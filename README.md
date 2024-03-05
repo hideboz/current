@@ -1,6 +1,6 @@
 # Hide-X-Community-Notes
 
-Copyright (C) 2024 Hideaki Sakai
+Copyright (C) 2024 Hideaki Sakai.
 See the end of the file for license conditions.
 
 ## Summary
